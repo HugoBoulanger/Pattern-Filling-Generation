@@ -1,0 +1,7 @@
+generation:
+  dataset:
+    train_file: 'path/to/train.iob/file'
+  do_extraction: true
+  seed: 1
+  size: 1000
+  save_dir: 'path/to/directory/where/you/want/to/save'
